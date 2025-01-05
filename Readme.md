@@ -1,4 +1,4 @@
-# Vector k-ARs: A scalable algorithm for multivariate time series clustering
+# A k-MLE framework with its k-VARs algorithm for multivariate time-series clustering
 
 ## Folders
 
